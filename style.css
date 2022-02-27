@@ -53,3 +53,15 @@
     font-weight: 700;
 }
 /* CONTACT CSS END */
+
+
+@media (max-width:1400px) {
+    .banner-img img {
+        width: 100%;
+    }
+}
+@media (max-width:576px) {
+    .product-card {
+        margin-bottom: 23px;
+    }
+}
